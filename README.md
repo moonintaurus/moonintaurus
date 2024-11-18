@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moonintaurus
-- 👀 I’m interested in Cloud Computing and web Development
+- 👀 I’m interested in Cloud Computing and Web Development
 - 💞️ I’m a IT Sophomore
 - 📫 How to reach me raidenmiji@gmail.com
 
